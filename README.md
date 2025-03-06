@@ -49,7 +49,7 @@ Primeiro, é necessário clonar o repositório para sua máquina local. Para iss
 git clone https://github.com/vanessayukari/roxinha-vis.git
 ```
 ```
-cd roxinhavis
+cd roxinha-vis
 ```
 
 ### → Passo 2: Criar um Ambiente Virtual (opcional, mas recomendado) 🌱
